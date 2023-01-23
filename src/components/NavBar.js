@@ -16,15 +16,19 @@ function NavBar(props) {
 
   return (
     <div className="row mt-2 mb-2 nav-bar">
-      <div className="col-1 col-sm-3 back-icon">
-        <img src="/images/Back.png" className="img-fluid" alt="back icon" />
+      <div className="col-1 col-sm-1 back-icon">
+        <img
+          src="/images/Back.png"
+          className="backIcon img-fluid"
+          alt="back icon"
+        />
       </div>
 
-      <div className="col-6 col-sm-3 heading">
+      <div className="col-6 col-sm-7 heading">
         <h4>{title}</h4>
       </div>
 
-      <div className="col-5 col-sm-3 search-input">
+      <div className="col-5 col-sm-4 search-input">
         <input
           type="input"
           value={searchvalue}
