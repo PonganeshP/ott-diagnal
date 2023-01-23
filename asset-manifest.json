@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ott-diagnal/static/css/main.537edd0f.css",
+    "main.js": "/ott-diagnal/static/js/main.a829d5a2.js",
+    "static/js/787.134ad337.chunk.js": "/ott-diagnal/static/js/787.134ad337.chunk.js",
+    "index.html": "/ott-diagnal/index.html",
+    "main.537edd0f.css.map": "/ott-diagnal/static/css/main.537edd0f.css.map",
+    "main.a829d5a2.js.map": "/ott-diagnal/static/js/main.a829d5a2.js.map",
+    "787.134ad337.chunk.js.map": "/ott-diagnal/static/js/787.134ad337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.537edd0f.css",
+    "static/js/main.a829d5a2.js"
+  ]
+}
